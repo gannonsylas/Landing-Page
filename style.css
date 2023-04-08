@@ -43,7 +43,7 @@ li {
     justify-content: center;
     align-items: center; 
     padding: 40px; 
-    gap: 120px;
+    gap: 60px;
     
 
 }
@@ -116,4 +116,27 @@ img {
 
 .travel-info-text {
     padding: 10px; 
+}
+
+.testimonial {
+    background-color: #E5E7EB; 
+    font-size: 26px; 
+    padding: 70px; 
+    font-style: italic;
+    color: #1F2937; 
+
+}
+
+.quote {
+    
+    margin: auto; 
+    width: 600px; 
+    height: 200px; 
+   
+}
+
+
+.name {
+    display: flex; 
+    justify-content: flex-end; 
 }
